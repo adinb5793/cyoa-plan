@@ -1,2 +1,2 @@
 # cyoa-plan
-### stop alarm
+### stop [alarm](alarm.md)
