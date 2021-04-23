@@ -1,6 +1,5 @@
 # cyoa-plan
-<<<<<<< HEAD
-=======
+
 ### stop [alarm
 =======
 ### stop [alarm](alarm.md)
