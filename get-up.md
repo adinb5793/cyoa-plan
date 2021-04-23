@@ -2,4 +2,4 @@
 
 ### [hotel](hotel.md)
 
-### [wander around](wander-around)
+### [wander around](wander-around.md)
