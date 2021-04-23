@@ -1,3 +1,3 @@
 # Wondering around
 ### You begin wondering around
-### [gets-lost.](getslost.md)
+### [gets-lost.](gets-lost.md)
