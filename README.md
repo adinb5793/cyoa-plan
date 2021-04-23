@@ -1,5 +1,5 @@
 # cyoa-plan
->>>>>>> b6bd050d3376288caf8d9b072571b71f51cddb79
+
 ### stop [alarm](alarm.md)
 
 ### [Planning page](https://docs.google.com/drawings/d/1Lr2yDed5vKaPJ8NjavVc0SS49xKvNaXmyvpb_Qbz6Fg/edit?ts=60784f11)
