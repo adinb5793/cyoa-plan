@@ -1,7 +1,9 @@
 # cyoa-plan
-
-### stop [alarm
-=======
+>>>>>>> b6bd050d3376288caf8d9b072571b71f51cddb79
 ### stop [alarm](alarm.md)
->>>>>>> 82f049f44d95bc15c5ba78ea4c982826cf937b7a
 
+### [Planning page](https://docs.google.com/drawings/d/1Lr2yDed5vKaPJ8NjavVc0SS49xKvNaXmyvpb_Qbz6Fg/edit?ts=60784f11)
+
+### [Jason's page](https://github.com/jasonh9503/jasonh9503.github.io)
+
+### [Khaled's Page](https://github.com/khaleds5769/khaleds5769.github.io)
